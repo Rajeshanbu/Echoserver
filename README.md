@@ -38,7 +38,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
 ```
 
-### Echo Server.py
+## Echo Server.py
 ```py
 import socket
 HOST = "127.0.0.1"  # Standard loopback interface address (localhost)
