@@ -57,11 +57,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 
 ## OUTPUT:
-Client
+## Client
 
 ![eth1](https://github.com/Rajeshanbu/Echoserver/assets/118924713/8b2db745-561c-400d-8564-81a0db908139)
 
-Server
+## Server
 ![eth2](https://github.com/Rajeshanbu/Echoserver/assets/118924713/e1594fb7-28c4-4fca-9d9b-b56089bea005)
 
 
